@@ -1,0 +1,68 @@
+[
+  {
+    "question": " ",
+    "type": "multiple_choice",
+    "category": "",
+    "sub_category": "kelas_10",
+    "answer_a":"a. 5",
+    "answer_b":"b. 4",
+    "answer_c":"c. -4",
+    "answer_d":"d. -5",
+    "image": "https://firebasestorage.googleapis.com/v0/b/profile-app-48011.appspot.com/o/images%2FScreenshot%20from%202021-05-20%2010-04-05.jpg?alt=media&token=08870b2f-4ad5-4c8b-970f-0253d8e36dd4"
+  },
+  {
+    "question": "Seorang manajer memberikan arahan kepada karyawannya agar dapat menunaikan tugas mereka masing-masing dengan baik dan sesuai pada tujuan yang telah ditetapkan semula. Menurut Henri Fayol fungsi manajemen tersebut adalah...",
+    "type": "multiple_choice",
+    "category": "",
+    "sub_category": "kelas_10",
+    "answer_a":"a. planning",
+    "answer_b":"b. organizing",
+    "answer_c":"c. coordinating",
+    "answer_d":"d. controlling"
+  },
+  {
+    "question": "Silpin merupakan sebutan bagi orang yang berperan penting dalam membangun candi, relief ataupun arca pada masa kerajaan Hindu dan Buddha. Tidak sembarang orang dapat menjadi silpin, adapun golongan masyarakat yang menjadi silpin berasal dari kasta ...",
+    "type": "multiple_choice",
+    "category": "",
+    "sub_category": "",
+    "answer_a":"a. Brahmana",
+    "answer_b":"b. Ksatria",
+    "answer_c":"c. Waisya",
+    "answer_d":"d. Sudra"
+  },
+  {
+    "question": "Manakah komponen di atas yang termasuk prinsip manajemen menurut Henry Fayol yaitu ...",
+    "type": "multiple_choice",
+    "category": "",
+    "sub_category": "",
+    "answer_a":"a. A1, B1, dan C1",
+    "answer_b":"b. B1, B2, dan C1",
+    "answer_c":"c. B1, B2, dan C2",
+    "answer_d":"d. A2, B1, dan C1",
+    "image": "https://www.ruangguru.com/hs-fs/hubfs/tabel-soal-ekonomi-1.jpg?width=500&name=tabel-soal-ekonomi-1.jpg"
+  },
+  {
+    "question": "Pada tahun 1521 Portugis menyerang pelabuhan-pelabuhan Samudera Pasai di pantai utara Aceh. Adapun latar belakang Portugis menyerang pelabuhan Samudera Pasai adalah ...",
+    "type": "multiple_choice",
+    "category": "",
+    "sub_category": "",
+    "answer_a":"a. Gangguan armada perang Samudera Pasai di Selat Malaka",
+    "answer_b":"b. Kuatnnya pengaruh Samudera Pasai di perairan Selat Sunda",
+    "answer_c":"c. Pesatnya perkembangan dagang di Kesultanan Samudera Pasai",
+    "answer_d":"d. Persaingan politik antara Sultan Zainal Abidin dengan Portugis"
+  },
+  {
+    "question": "Apa yang dimaksud dengan teks laporan hasil observasi?",
+    "type": "essay",
+    "category": "",
+    "sub_category": "",
+    "answer_esay":"teks laporan hasil observasi adalah teks yang berisi penjabaran umum/melaporkan sesuatu berupa hasil dari pengamatan (observasi)."
+  },
+  {
+    "question": "Mengapa teks laporan disebut teks klasifikasi?",
+    "type": "essay",
+    "category": "",
+    "sub_category": "",
+    "answer_esay":"karena memuat klasifikasi mengenai jenis-jenis sesuatu berdasarkan kriteria tertentu."
+  }
+]

@@ -1,12 +1,12 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "edukasi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "prasatya",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",

@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Sebagai perwakilan lomba, dipilih 1 tim yang terdiri 3 siswa dari 5 siswa laki-laki dan 3 siswa perempuan yang tersedia. Jika maksimal terdapat 2 siswa perempuan dalam tim tersebut, maka banyak susunan tim yang dapat dibentuk adalah ...",
+    "type": "multiple_choice",
+    "category": "",
+    "sub_category": "kelas_12",
+    "answer_a":"a. 75",
+    "answer_b":"b. 55",
+    "answer_c":"c. 40",
+    "answer_d":"d. 25"
+  },
+  {
+    "question": " ",
+    "type": "multiple_choice",
+    "category": "",
+    "sub_category": "kelas_12",
+    "answer_a":"a. 1/3",
+    "answer_b":"b. 1/8",
+    "answer_c":"c. 3/8",
+    "answer_d":"d. 3/11",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/profile-app-48011.appspot.com/o/images%2FScreenshot%20from%202021-05-20%2009-43-30.jpg?alt=media&token=f79617f3-3a1e-4287-9e99-c04bc4a188e5"
+  },
+  {
+    "question": "Hitto bermain game online yang berupa kuis mengenai pengetahuan alam. Cara bermain game tersebut adalah cukup menekan pilihan jawaban A atau B. Namun, karena Hitto lebih menyukai ilmu sosial, maka Hitto menjawabnya dengan acak. Dari 8 soal yang ada pada game tersebut, peluang Hitto menjawab setidaknya 1 soal dengan benar adalah ...",
+    "type": "multiple_choice",
+    "category": "",
+    "sub_category": "kelas_12",
+    "answer_a":"a. 251/256",
+    "answer_b":"b. 255/256",
+    "answer_c":"c. 253/256",
+    "answer_d":"d. 254/256"
+  },
+  {
+    "question": "Sebuah benda bermassa 2 kg dilemparkan ke atas dengan kecepatan 2 m/s hingga mencapai ketinggian tertentu. Energi yang dimiliki benda tersebut adalah ...",
+    "type": "multiple_choice",
+    "category": "",
+    "sub_category": "kelas_12",
+    "answer_a":"a. hanya energi kinetik",
+    "answer_b":"b. hanya energi potensial",
+    "answer_c":"c. energi kinetik dan energi potensial",
+    "answer_d":"d. energi kimia dan energi kinetik"
+  },
+  {
+    "question": "Sebanyak 2,55 gram asam organik (RCOOH) tepat dinetralkan oleh 50 mL larutan 0,5 M KOH. Asam organik tersebut adalah .... (Ar C = 12; O = 16; H = 1)",
+    "type": "multiple_choice",
+    "category": "",
+    "sub_category": "kelas_12",
+    "answer_a":"a. asam asetat",
+    "answer_b":"b. asam propanoat",
+    "answer_c":"c. asam butanoat",
+    "answer_d":"d. asam heksanoat"
+  },
+  {
+    "question": "Penyusunan teks proklamasi kemerdekaan Indonesia dilaksanakan di kediaman ....",
+    "type": "essay",
+    "category": "",
+    "sub_category": "kelas_12",
+    "answer_esay":"Laksamana Maeda"
+  },
+  {
+    "question": "Sebutkan hal-hal yang harus dikomentari dalam pembacaan puisi!",
+    "type": "essay",
+    "category": "",
+    "sub_category": "kelas_12",
+    "answer_esay":"Tentang pelafalan, intonasi, dan ekspresi, pembacaan puisi akan berhasil (dalam arti pembaca akan mudah memahami isinya)."
+  }
+]
