@@ -2,7 +2,7 @@
 
 module.exports = {
   up: async (queryInterface, Sequelize) => {
-    const data = require('../class10.json')
+    const data = require('../class12.json')
 
     data.forEach(question => {
       question.createdAt = new Date()

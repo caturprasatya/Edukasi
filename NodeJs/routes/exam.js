@@ -5,8 +5,10 @@ route.get('/exam', ExamController.fetchQuestion)
 
 route.post('/exam', ExamController.addQuestion)
 
-route.put('/exam', ExamController.editQuestion)
+route.get('/exam/:id', ExamController.getQuestion)
 
-route.delete('/exam', ExamController.deleteQustion)
+route.put('/exam/:id', ExamController.editQuestion)
+
+route.delete('/exam/:id', ExamController.deleteQustion)
 
 module.exports = route

@@ -1,18 +1,18 @@
 [
   {
-    "question": "Han Jipying mencium aroma ayam goreng yang sedang dimasak oleh ibunya. Setelah mencium aroma tersebut, Han Jipying  menjadi lapar dan air liur berkumpul di mulutnya. Urutan tahap penerjemahan kemoreseptor ketika peristiwa tersebut terjadi adalah ...",
+    "question": "Suatu larutan nonelektrolit dalam air membeku pada suhu -0,744 °C. Titik didih larutan tersebut (Kb=0,5 °C/m, Kf=1,86 °C/m) sebesar ....",
     "type": "multiple_choice",
-    "category": "",
+    "category": "literasi",
     "sub_category": "kelas_11",
-    "answer_a":"a. aroma → epitel olfaktori → mukosa olfaktori → saraf olfaktori → otak",
-    "answer_b":"b. otak → mukosa olfaktori → saraf olfaktori → epitel olfaktori → otak",
-    "answer_c":"c. otak → epitel olfaktori → mukosa olfaktori → saraf olfaktori → aroma",
-    "answer_d":"d. aroma → mukosa olfaktori → epitel olfaktori → saraf olfaktori → otak"
+    "answer_a":"a. 100,1 °C",
+    "answer_b":"b. 100,2 °C",
+    "answer_c":"c. 100,3 °C",
+    "answer_d":"d. 101,1 °C"
   },
   {
     "question": " ",
     "type": "multiple_choice",
-    "category": "",
+    "category": "numerasi",
     "sub_category": "kelas_11",
     "answer_a":"a. -18",
     "answer_b":"b. -9",
@@ -23,7 +23,7 @@
   {
     "question": "Apabila panjang satu gelombang adalah 8 m, cepat rambat gelombang tersebut adalah ...",
     "type": "multiple_choice",
-    "category": "",
+    "category": "numerasi",
     "sub_category": "kelas_11",
     "answer_a":"a. 1 m/s",
     "answer_b":"b. 1,25 m/s",
@@ -32,19 +32,19 @@
     "image": "https://www.ruangguru.com/hubfs/image-png-Apr-20-2021-04-53-39-33-AM.png"
   },
   {
-    "question": "Pak Deni sedang mengendarai motor dengan kecepatan 20 m/s sembari membunyikan klakson. Kemudian, ada Doni yang sedang bersepeda dengan kecepatan 20 m/s. Pak Deni dan Doni bergerak saling menjauh dan Doni mendengar suara klakson dengan frekuensi 620 Hz. Jika cepat rambat bunyi di udara adalah 330 m/s, frekuensi klakson motor Pak Deni adalah ...",
+    "question": "Di suatu komunitas, 20 orang pernah mendaki Gunung Semeru, 15 orang pernah mendaki Gunung Kerinci, dan 5 orang pernah mendaki kedua gunung tersebut. Banyak orang yang pernah mendaki Gunung Semeru atau Gunung Kerinci adalah ....",
     "type": "multiple_choice",
-    "category": "",
+    "category": "numerasi",
     "sub_category": "kelas_11",
-    "answer_a":"a. 350 Hz",
-    "answer_b":"b. 550 Hz",
-    "answer_c":"c. 700 Hz",
-    "answer_d":"d. 950 Hz"
+    "answer_a":"a. 40",
+    "answer_b":"b. 35",
+    "answer_c":"c. 30",
+    "answer_d":"d. 20"
   },
   {
     "question": "Dio menggunakan kacamata dengan kekuatan –2 dioptri. Ketika sebuah botol minum dengan tinggi 40 cm diletakkan 2 meter dari Dio, tinggi botol minum menurut Dio adalah ...",
     "type": "multiple_choice",
-    "category": "",
+    "category": "literasi",
     "sub_category": "kelas_11",
     "answer_a":"a. 8 cm, bayangan maya",
     "answer_b":"b. 8 cm, bayangan nyata",
@@ -54,14 +54,14 @@
   {
     "question": "Tuliskan pengertian verba tingkah laku!",
     "type": "essay",
-    "category": "",
+    "category": "literasi",
     "sub_category": "kelas_11",
     "answer_esay":"Sebuah kata kerja yang mengacu pada tindakan yang dilakukan dengan ungkapan."
   },
   {
     "question": "Jelaskan pengertian konjungsi temporal!",
     "type": "essay",
-    "category": "",
+    "category": "literasi",
     "sub_category": "kelas_11",
     "answer_esay":"Kata penghubung yang berhunbungan dengan waktu."
   }

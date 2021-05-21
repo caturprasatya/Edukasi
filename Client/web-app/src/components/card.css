@@ -1,0 +1,17 @@
+.card.question{
+  min-height: 350px;
+  background-color: #e4efe7;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+img.card-img {
+  border-radius: 28px;
+  margin-bottom: -20px;
+  z-index: 3;
+}
+.card.question2{
+  z-index: 1;
+}
